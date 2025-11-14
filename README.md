@@ -6,7 +6,7 @@
 - Artificial Intelligence | FPT UNIVERSITY HCM
 
 ## Projects
-**Drowsiness Detection**
+**Driver Drowsiness Detection System**
 
 [Full Project Report (PDF)](Driver_Drowsiness_Detection_System.pdf)
 
