@@ -18,8 +18,6 @@ AI student with a foundational background in Data Science and ML/DL. I enjoy exp
 
 Artificial Intelligence | FPT UNIVERSITY
 
-2023 – Present
-
 ## Projects
 
 ### 1. Driver Drowsiness Detection System
