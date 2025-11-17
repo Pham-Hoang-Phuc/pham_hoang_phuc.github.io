@@ -16,7 +16,7 @@ AI student with a foundational background in Data Science and ML/DL. I enjoy exp
 
 ## Education
 
-**Artificial Intelligence | FPT UNIVERSITY**
+Artificial Intelligence | FPT UNIVERSITY
 
 *2023 – Present*
 
