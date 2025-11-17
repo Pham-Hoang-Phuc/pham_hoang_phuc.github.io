@@ -50,17 +50,13 @@ Applied supervised machine learning models on a clinical dataset (918 samples, 1
 
 **Key Features**
 
-- **Comparative Model Evaluation:** Trained and evaluated Logistic Regression, XGBoost, and Random Forest classifiers. **Random Forest** achieved the best results with **88.0% Accuracy** and a high **89.0% Recall** (crucial for medical diagnosis).
-- **Data Analysis & Feature Engineering:** Performed comprehensive Exploratory Data Analysis (EDA) to understand feature distributions and correlations. Identified **Oldpeak**, **MaxHR**, and **Age** as the strongest predictors for the target variable.
+- **Comparative Model Evaluation:** Trained and evaluated Logistic Regression, XGBoost, and Random Forest classifiers. Random Forest achieved the best results with 88.0% Accuracy and a high 89.0% Recall (crucial for medical diagnosis).
+- **Data Analysis & Feature Engineering:** Performed comprehensive Exploratory Data Analysis (EDA) to understand feature distributions and correlations. Identified Oldpeak, MaxHR, and Age as the strongest predictors for the target variable.
 - **Statistical Insight Extraction:** Generated heatmaps, pairplots, and count plots to visually confirm the correlation structure. Established that a lower Max Heart Rate (MaxHR) and higher Oldpeak score strongly correlate with increased disease risk.
 
 **My Contributions**
 
 - Led the Exploratory Data Analysis (EDA) and Data Visualization stages.
-
-<div align="center">
-  <img src="pics/hear_disease.png" alt="Pipeline Overview" width="70%"/>
-</div>
 
 ## Contact
 
