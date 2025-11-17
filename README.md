@@ -40,7 +40,8 @@ Developed a real-time Computer Vision system to detect driver fatigue using webc
 - Developed custom CNN models for eye state classification and yawn detection.
 
 <div align="center">
-  <img src="pics/pic.png" alt="Pipeline Overview" width="70%"/>
+  <img src="pics/image.png" alt="Mô tả ảnh 1" width="45%"/>
+  <img src="pics/image_1.png" alt="Mô tả ảnh 2" width="45%"/>
 </div>
 
 ### 2. Heart Disease Prediction Using Machine Learning
