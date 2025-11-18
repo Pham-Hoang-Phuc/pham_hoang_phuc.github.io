@@ -33,8 +33,8 @@ Developed a real-time Computer Vision system to detect driver fatigue using webc
 
 **My Contributions**
 
-- Built a complete pipeline including data collection, preprocessing, model training, and evaluation.
-- Implemented facial landmark extraction and real-time processing with OpenCV and MediaPipe.
+- Implemented data collection, model training, and evaluation steps.
+- Implemented facial landmark extraction and real-time processing.
 - Developed custom CNN models for eye state classification and yawn detection.
 
 <div align="center">
