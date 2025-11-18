@@ -10,7 +10,7 @@ AI student with a foundational background in Data Science and ML/DL. I enjoy exp
 | :--- | :--- |
 | **Programming** | Python, C++, SQL |
 | **Data Science** | Pandas, NumPy, Matplotlib, Seaborn |
-| **Machine Learning** | Scikit-learn, XGBoost |
+| **Machine Learning** | Scikit-learn |
 | **Deep Learning** | PyTorch, OpenCV, MediaPipe |
 | **Tools** | Git, GitHub, Jupyter Notebook, VS Code, PyCharm |
 
